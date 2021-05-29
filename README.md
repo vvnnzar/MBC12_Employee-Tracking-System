@@ -9,7 +9,7 @@ The application accesses employee data in a MySQL database which stores employee
 
 ### Project Links
 
-https://vvnnzar.github.io/MBC12_Employee Tracking System/
+https://vvnnzar.github.io/MBC12_Employee-Tracking-System/
 
 ### Screen layout and Design
 

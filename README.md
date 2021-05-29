@@ -16,6 +16,9 @@ https://vvnnzar.github.io/MBC12_Employee Tracking System/
 The following image depicts the database schema:
 (![Employee Tracking System DB Schema](https://github.com/vvnnzar/MBC12_Employee-Tracking-System/blob/main/assets/schema.png))
 
+A demonstration of the application can be sourced at:
+https://github.com/vvnnzar/MBC12_Employee-Tracking-System/blob/main/assets/Employee%20Tracking%20System.gif
+
 ### Acknowledgements
 
 This development was completed in part using the following references:

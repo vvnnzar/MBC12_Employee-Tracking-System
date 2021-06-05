@@ -64,7 +64,6 @@ async function startPrompt() {
       viewRoles();
       break;
     }
-
     case "View All Employees by Department and Manager": {
       viewEmployeeData();
       break;
@@ -89,7 +88,6 @@ async function startPrompt() {
       updateEmployee();
       break;
     }
-
     case "Remove Employee": {
       removeEmployee();
       break;
